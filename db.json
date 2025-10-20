@@ -1,44 +1,24 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "title": "Complete project documentation",
-      "description": "Write comprehensive documentation for the task tracker project",
-      "dueDate": "2024-01-15",
-      "status": "done",
-      "priority": "high",
-      "createdAt": "2024-01-10T10:00:00Z",
-      "updatedAt": "2025-10-20T10:27:13.202Z"
-    },
-    {
-      "id": "2",
-      "title": "Review code changes",
-      "description": "Review and approve all pending code changes",
-      "dueDate": "2024-01-12",
-      "status": "done",
-      "priority": "medium",
-      "createdAt": "2024-01-08T14:30:00Z",
-      "updatedAt": "2024-01-11T16:45:00Z"
-    },
-    {
-      "id": "3",
-      "title": "Update dependencies",
-      "description": "Update all project dependencies to latest versions",
-      "dueDate": "2024-01-20",
-      "status": "done",
-      "priority": "low",
-      "createdAt": "2024-01-09T09:15:00Z",
-      "updatedAt": "2025-10-20T10:27:17.997Z"
-    },
-    {
-      "id": "4335",
-      "title": "Ashim What",
-      "description": "this is just a test",
-      "dueDate": "2025-10-22",
+      "id": "22d7",
+      "title": "Test",
+      "description": "test",
+      "dueDate": "2025-10-21",
       "priority": "high",
       "status": "pending",
-      "createdAt": "2025-10-20T10:27:50.403Z",
-      "updatedAt": "2025-10-20T10:27:59.947Z"
+      "createdAt": "2025-10-20T12:53:39.507Z",
+      "updatedAt": "2025-10-20T12:53:39.507Z"
+    },
+    {
+      "id": "c626",
+      "title": "test",
+      "description": "test",
+      "dueDate": "2025-10-25",
+      "priority": "low",
+      "status": "in-progress",
+      "createdAt": "2025-10-20T12:53:53.156Z",
+      "updatedAt": "2025-10-20T12:53:56.941Z"
     }
   ]
 }
